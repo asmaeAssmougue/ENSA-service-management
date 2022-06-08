@@ -1,0 +1,809 @@
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Student Management System.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.MainForm.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.Properties.Resources.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Student Management System.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent Form.exe
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent Form.pdb
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\Transparent Form.exe.config
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\Transparent Form.exe
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\Transparent Form.pdb
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\Guna.UI2.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\MySql.Data.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\Google.Protobuf.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\Zstandard.Net.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\Renci.SshNet.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\System.Buffers.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\System.Memory.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\MySql.Data.xml
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.RegisterForm.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Student Management System.csproj.CopyComplete
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.ManageStudentForm.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.PrintStudent.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.CourseForm.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.ManageCourseForm.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.PrintCourseForm.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.ScoreForm.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.ManageScoreForm.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.PrintScoreForm.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.LoginForm.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.SplashForm.resources
+C:\Users\HP\Downloads\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\Transparent Form.exe.config
+C:\Users\HP\Downloads\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\Transparent Form.exe
+C:\Users\HP\Downloads\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\Transparent Form.pdb
+C:\Users\HP\Downloads\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\Guna.UI2.dll
+C:\Users\HP\Downloads\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\Downloads\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\Zstandard.Net.dll
+C:\Users\HP\Downloads\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\Downloads\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HP\Downloads\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\HP\Downloads\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\Renci.SshNet.dll
+C:\Users\HP\Downloads\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\System.Buffers.dll
+C:\Users\HP\Downloads\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\HP\Downloads\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\HP\Downloads\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\System.Memory.dll
+C:\Users\HP\Downloads\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Downloads\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Downloads\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\MySql.Data.xml
+C:\Users\HP\Downloads\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Student Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Downloads\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.CourseForm.resources
+C:\Users\HP\Downloads\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.LoginForm.resources
+C:\Users\HP\Downloads\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.MainForm.resources
+C:\Users\HP\Downloads\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.ManageCourseForm.resources
+C:\Users\HP\Downloads\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.ManageScoreForm.resources
+C:\Users\HP\Downloads\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.ManageStudentForm.resources
+C:\Users\HP\Downloads\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.PrintCourseForm.resources
+C:\Users\HP\Downloads\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.PrintScoreForm.resources
+C:\Users\HP\Downloads\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.PrintStudent.resources
+C:\Users\HP\Downloads\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.Properties.Resources.resources
+C:\Users\HP\Downloads\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.RegisterForm.resources
+C:\Users\HP\Downloads\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.ScoreForm.resources
+C:\Users\HP\Downloads\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.SplashForm.resources
+C:\Users\HP\Downloads\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Student Management System.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Student Management System.csproj.CopyComplete
+C:\Users\HP\Downloads\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent Form.exe
+C:\Users\HP\Downloads\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent Form.pdb
+D:\downloadFolder\Student Management System (1)\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\Transparent Form.exe.config
+D:\downloadFolder\Student Management System (1)\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\Transparent Form.exe
+D:\downloadFolder\Student Management System (1)\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\Transparent Form.pdb
+D:\downloadFolder\Student Management System (1)\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\Guna.UI2.dll
+D:\downloadFolder\Student Management System (1)\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\Google.Protobuf.dll
+D:\downloadFolder\Student Management System (1)\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\Zstandard.Net.dll
+D:\downloadFolder\Student Management System (1)\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\downloadFolder\Student Management System (1)\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\BouncyCastle.Crypto.dll
+D:\downloadFolder\Student Management System (1)\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\Ubiety.Dns.Core.dll
+D:\downloadFolder\Student Management System (1)\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\Renci.SshNet.dll
+D:\downloadFolder\Student Management System (1)\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\System.Buffers.dll
+D:\downloadFolder\Student Management System (1)\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\K4os.Compression.LZ4.dll
+D:\downloadFolder\Student Management System (1)\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\K4os.Hash.xxHash.dll
+D:\downloadFolder\Student Management System (1)\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\System.Memory.dll
+D:\downloadFolder\Student Management System (1)\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\downloadFolder\Student Management System (1)\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\System.Numerics.Vectors.dll
+D:\downloadFolder\Student Management System (1)\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\MySql.Data.xml
+D:\downloadFolder\Student Management System (1)\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+D:\downloadFolder\Student Management System (1)\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Student Management System.csproj.SuggestedBindingRedirects.cache
+D:\downloadFolder\Student Management System (1)\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.CourseForm.resources
+D:\downloadFolder\Student Management System (1)\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.LoginForm.resources
+D:\downloadFolder\Student Management System (1)\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.MainForm.resources
+D:\downloadFolder\Student Management System (1)\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.ManageCourseForm.resources
+D:\downloadFolder\Student Management System (1)\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.ManageScoreForm.resources
+D:\downloadFolder\Student Management System (1)\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.ManageStudentForm.resources
+D:\downloadFolder\Student Management System (1)\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.PrintCourseForm.resources
+D:\downloadFolder\Student Management System (1)\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.PrintScoreForm.resources
+D:\downloadFolder\Student Management System (1)\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.PrintStudent.resources
+D:\downloadFolder\Student Management System (1)\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.Properties.Resources.resources
+D:\downloadFolder\Student Management System (1)\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.RegisterForm.resources
+D:\downloadFolder\Student Management System (1)\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.ScoreForm.resources
+D:\downloadFolder\Student Management System (1)\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.SplashForm.resources
+D:\downloadFolder\Student Management System (1)\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Student Management System.csproj.GenerateResource.cache
+D:\downloadFolder\Student Management System (1)\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+D:\downloadFolder\Student Management System (1)\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Student Management System.csproj.CopyComplete
+D:\downloadFolder\Student Management System (1)\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent Form.exe
+D:\downloadFolder\Student Management System (1)\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent Form.pdb
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\Transparent Form.exe.config
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\Transparent Form.exe
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\Transparent Form.pdb
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\Guna.UI2.dll
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\Google.Protobuf.dll
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\Zstandard.Net.dll
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\BouncyCastle.Crypto.dll
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\Ubiety.Dns.Core.dll
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\Renci.SshNet.dll
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\System.Buffers.dll
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\K4os.Compression.LZ4.dll
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\K4os.Hash.xxHash.dll
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\System.Memory.dll
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\System.Numerics.Vectors.dll
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\bin\Debug\MySql.Data.xml
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Student Management System.csproj.SuggestedBindingRedirects.cache
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.CourseForm.resources
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.LoginForm.resources
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.MainForm.resources
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.ManageCourseForm.resources
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.ManageScoreForm.resources
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.ManageStudentForm.resources
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.PrintCourseForm.resources
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.PrintScoreForm.resources
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.PrintStudent.resources
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.Properties.Resources.resources
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.RegisterForm.resources
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.ScoreForm.resources
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.SplashForm.resources
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Student Management System.csproj.GenerateResource.cache
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Student Management System.csproj.CopyComplete
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent Form.exe
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent Form.pdb
+D:\S8_me\Net_Tp\projet\gestionEcole\Student Management System (1)\Student Management System\Transparent Form\obj\Debug\Transparent_Form.AjoutAbscenForm.resources
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.exe.config
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.exe
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.pdb
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\bin\Debug\Guna.UI2.dll
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\bin\Debug\Zstandard.Net.dll
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\bin\Debug\Renci.SshNet.dll
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\bin\Debug\MySql.Data.xml
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.AjoutAbscenForm.resources
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.CourseForm.resources
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.LoginForm.resources
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.MainForm.resources
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageCourseForm.resources
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageProfesseurForm.resources
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageScoreForm.resources
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageStudentForm.resources
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintCourseForm.resources
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintScoreForm.resources
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintStudent.resources
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.Properties.Resources.resources
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.RegisteForm.resources
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.RegisterForm.resources
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ScoreForm.resources
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.SplashForm.resources
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.CopyComplete
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\obj\Debug\Transparent Form.exe
+C:\Users\HP\Desktop\tp2\servicesENSAK\Transparent Form\obj\Debug\Transparent Form.pdb
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.AjoutAbscenForm.resources
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.CourseForm.resources
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.LoginForm.resources
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.MainForm.resources
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageCourseForm.resources
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageModuleForm.resources
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageProfesseurForm.resources
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageScoreForm.resources
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageStudentForm.resources
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ModuleForm.resources
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintCourseForm.resources
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintScoreForm.resources
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintStudent.resources
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.Properties.Resources.resources
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.RegisteForm.resources
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.RegisterForm.resources
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ScoreForm.resources
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.SplashForm.resources
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent Form.exe
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent Form.pdb
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.exe.config
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.exe
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.pdb
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\bin\Debug\Guna.UI2.dll
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\bin\Debug\Zstandard.Net.dll
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\bin\Debug\Renci.SshNet.dll
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\bin\Debug\System.Buffers.dll
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\bin\Debug\System.Memory.dll
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\bin\Debug\MySql.Data.xml
+C:\Users\HP\Downloads\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.CopyComplete
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.exe.config
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.exe
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.pdb
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\bin\Debug\Guna.UI2.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\bin\Debug\Google.Protobuf.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\bin\Debug\Zstandard.Net.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\bin\Debug\Renci.SshNet.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\bin\Debug\System.Buffers.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\bin\Debug\System.Memory.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\bin\Debug\MySql.Data.xml
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.AjoutAbscenForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.CourseForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.LoginForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.MainForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageCourseForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageModuleForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageProfesseurForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageScoreForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageStudentForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ModuleForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintCourseForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintScoreForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintStudent.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.Properties.Resources.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.RegisteForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.RegisterForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ScoreForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.SplashForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.GenerateResource.cache
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.CopyComplete
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\obj\Debug\Transparent Form.exe
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\obj\Debug\Transparent Form.pdb
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageSpecialiteForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v3\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.SpecialiteForm.resources
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.exe.config
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.exe
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.pdb
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\bin\Debug\Guna.UI2.dll
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\bin\Debug\Zstandard.Net.dll
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\bin\Debug\Renci.SshNet.dll
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\bin\Debug\MySql.Data.xml
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.AjoutAbscenForm.resources
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.CourseForm.resources
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.LoginForm.resources
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.MainForm.resources
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageCourseForm.resources
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageModuleForm.resources
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageProfesseurForm.resources
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageScoreForm.resources
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageSpecialiteForm.resources
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageStudentForm.resources
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ModuleForm.resources
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintCourseForm.resources
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintScoreForm.resources
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintStudent.resources
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.Properties.Resources.resources
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.RegisteForm.resources
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.RegisterForm.resources
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ScoreForm.resources
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.SpecialiteForm.resources
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.SplashForm.resources
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.CopyComplete
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\obj\Debug\Transparent Form.exe
+C:\Users\HP\Desktop\servicesENSAK\Transparent Form\obj\Debug\Transparent Form.pdb
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.exe.config
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.exe
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.pdb
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\bin\Debug\Guna.UI2.dll
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\bin\Debug\Google.Protobuf.dll
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\bin\Debug\Zstandard.Net.dll
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\bin\Debug\Renci.SshNet.dll
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\bin\Debug\System.Buffers.dll
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\bin\Debug\System.Memory.dll
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\bin\Debug\MySql.Data.xml
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.AjoutAbscenForm.resources
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.CourseForm.resources
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.LoginForm.resources
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.MainForm.resources
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageCourseForm.resources
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageModuleForm.resources
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageProfesseurForm.resources
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageScoreForm.resources
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageSpecialiteForm.resources
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageStudentForm.resources
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ModuleForm.resources
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintCourseForm.resources
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintScoreForm.resources
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintStudent.resources
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.Properties.Resources.resources
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.RegisteForm.resources
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.RegisterForm.resources
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ScoreForm.resources
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.SpecialiteForm.resources
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.SplashForm.resources
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.GenerateResource.cache
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.CopyComplete
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\obj\Debug\Transparent Form.exe
+C:\Users\KAWTAR\Downloads\servicesENSAK\Transparent Form\obj\Debug\Transparent Form.pdb
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.exe.config
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.exe
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.pdb
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\bin\Debug\Guna.UI2.dll
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\bin\Debug\Zstandard.Net.dll
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\bin\Debug\Renci.SshNet.dll
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\bin\Debug\MySql.Data.xml
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.AjoutAbscenForm.resources
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.CourseForm.resources
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.LoginForm.resources
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.MainForm.resources
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageCourseForm.resources
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageModuleForm.resources
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageProfesseurForm.resources
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageScoreForm.resources
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageSpecialiteForm.resources
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageStudentForm.resources
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ModuleForm.resources
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintCourseForm.resources
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintScoreForm.resources
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintStudent.resources
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.Properties.Resources.resources
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.RegisteForm.resources
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.RegisterForm.resources
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ScoreForm.resources
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.SpecialiteForm.resources
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.SplashForm.resources
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.CopyComplete
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\obj\Debug\Transparent Form.exe
+C:\Users\HP\Desktop\TEST\servicesENSAK\Transparent Form\obj\Debug\Transparent Form.pdb
+D:\ensa\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+D:\ensa\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.SuggestedBindingRedirects.cache
+D:\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.AjoutAbscenForm.resources
+D:\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.CourseForm.resources
+D:\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.LoginForm.resources
+D:\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.MainForm.resources
+D:\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageCourseForm.resources
+D:\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageModuleForm.resources
+D:\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageProfesseurForm.resources
+D:\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageScoreForm.resources
+D:\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageSpecialiteForm.resources
+D:\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageStudentForm.resources
+D:\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ModuleForm.resources
+D:\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintCourseForm.resources
+D:\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintScoreForm.resources
+D:\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintStudent.resources
+D:\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.Properties.Resources.resources
+D:\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ScoreForm.resources
+D:\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.SpecialiteForm.resources
+D:\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.SplashForm.resources
+D:\ensa\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.GenerateResource.cache
+D:\ensa\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+D:\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent Form.exe
+D:\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent Form.pdb
+D:\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.RegisterForm.resources
+D:\ensa\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.exe.config
+D:\ensa\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.exe
+D:\ensa\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.pdb
+D:\ensa\servicesENSAK\Transparent Form\bin\Debug\Guna.UI2.dll
+D:\ensa\servicesENSAK\Transparent Form\bin\Debug\Google.Protobuf.dll
+D:\ensa\servicesENSAK\Transparent Form\bin\Debug\Zstandard.Net.dll
+D:\ensa\servicesENSAK\Transparent Form\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\ensa\servicesENSAK\Transparent Form\bin\Debug\BouncyCastle.Crypto.dll
+D:\ensa\servicesENSAK\Transparent Form\bin\Debug\Ubiety.Dns.Core.dll
+D:\ensa\servicesENSAK\Transparent Form\bin\Debug\Renci.SshNet.dll
+D:\ensa\servicesENSAK\Transparent Form\bin\Debug\System.Buffers.dll
+D:\ensa\servicesENSAK\Transparent Form\bin\Debug\K4os.Compression.LZ4.dll
+D:\ensa\servicesENSAK\Transparent Form\bin\Debug\K4os.Hash.xxHash.dll
+D:\ensa\servicesENSAK\Transparent Form\bin\Debug\System.Memory.dll
+D:\ensa\servicesENSAK\Transparent Form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ensa\servicesENSAK\Transparent Form\bin\Debug\System.Numerics.Vectors.dll
+D:\ensa\servicesENSAK\Transparent Form\bin\Debug\MySql.Data.xml
+D:\ensa\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.CopyComplete
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.exe.config
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.exe
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.pdb
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\bin\Debug\Guna.UI2.dll
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\bin\Debug\Google.Protobuf.dll
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\bin\Debug\Zstandard.Net.dll
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\bin\Debug\Renci.SshNet.dll
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\bin\Debug\System.Buffers.dll
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\bin\Debug\System.Memory.dll
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\bin\Debug\MySql.Data.xml
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.AjoutAbscenForm.resources
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.CourseForm.resources
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.LoginForm.resources
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.MainForm.resources
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageCourseForm.resources
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageModuleForm.resources
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageProfesseurForm.resources
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageScoreForm.resources
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageSpecialiteForm.resources
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageStudentForm.resources
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ModuleForm.resources
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintCourseForm.resources
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintScoreForm.resources
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintStudent.resources
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.Properties.Resources.resources
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.RegisterForm.resources
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ScoreForm.resources
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.SpecialiteForm.resources
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.SplashForm.resources
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.GenerateResource.cache
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.CopyComplete
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent Form.exe
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent Form.pdb
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.AdminForm.resources
+C:\Users\KAWTAR\Downloads\ensa\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.RegisterProf.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.exe.config
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.exe
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.pdb
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\bin\Debug\Guna.UI2.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\bin\Debug\Google.Protobuf.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\bin\Debug\Zstandard.Net.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\bin\Debug\Renci.SshNet.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\bin\Debug\System.Buffers.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\bin\Debug\System.Memory.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\bin\Debug\MySql.Data.xml
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.AdminForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.AjoutAbscenForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.CourseForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.LoginForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.MainForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageCourseForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageModuleForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageProfesseurForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageScoreForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageSpecialiteForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageStudentForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ModuleForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintCourseForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintScoreForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintStudent.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.Properties.Resources.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.RegisterForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.RegisterProf.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ScoreForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.SpecialiteForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.SplashForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.GenerateResource.cache
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.CopyComplete
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\obj\Debug\Transparent Form.exe
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v7\servicesENSAK\Transparent Form\obj\Debug\Transparent Form.pdb
+D:\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.exe.config
+D:\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.exe
+D:\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.pdb
+D:\servicesENSAK\Transparent Form\bin\Debug\Guna.UI2.dll
+D:\servicesENSAK\Transparent Form\bin\Debug\Google.Protobuf.dll
+D:\servicesENSAK\Transparent Form\bin\Debug\Zstandard.Net.dll
+D:\servicesENSAK\Transparent Form\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\servicesENSAK\Transparent Form\bin\Debug\BouncyCastle.Crypto.dll
+D:\servicesENSAK\Transparent Form\bin\Debug\Ubiety.Dns.Core.dll
+D:\servicesENSAK\Transparent Form\bin\Debug\Renci.SshNet.dll
+D:\servicesENSAK\Transparent Form\bin\Debug\System.Buffers.dll
+D:\servicesENSAK\Transparent Form\bin\Debug\K4os.Compression.LZ4.dll
+D:\servicesENSAK\Transparent Form\bin\Debug\K4os.Hash.xxHash.dll
+D:\servicesENSAK\Transparent Form\bin\Debug\System.Memory.dll
+D:\servicesENSAK\Transparent Form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\servicesENSAK\Transparent Form\bin\Debug\System.Numerics.Vectors.dll
+D:\servicesENSAK\Transparent Form\bin\Debug\MySql.Data.xml
+D:\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+D:\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.SuggestedBindingRedirects.cache
+D:\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.AdminForm.resources
+D:\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.AjoutAbscenForm.resources
+D:\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.CourseForm.resources
+D:\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.LoginForm.resources
+D:\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.MainForm.resources
+D:\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageCourseForm.resources
+D:\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageModuleForm.resources
+D:\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageProfesseurForm.resources
+D:\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageScoreForm.resources
+D:\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageSpecialiteForm.resources
+D:\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageStudentForm.resources
+D:\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ModuleForm.resources
+D:\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintCourseForm.resources
+D:\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintScoreForm.resources
+D:\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintStudent.resources
+D:\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.Properties.Resources.resources
+D:\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.RegisterForm.resources
+D:\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.RegisterProf.resources
+D:\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ScoreForm.resources
+D:\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.SpecialiteForm.resources
+D:\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.SplashForm.resources
+D:\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.GenerateResource.cache
+D:\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+D:\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.CopyComplete
+D:\servicesENSAK\Transparent Form\obj\Debug\Transparent Form.exe
+D:\servicesENSAK\Transparent Form\obj\Debug\Transparent Form.pdb
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.exe.config
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.exe
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.pdb
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\bin\Debug\Guna.UI2.dll
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\bin\Debug\Zstandard.Net.dll
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\bin\Debug\Renci.SshNet.dll
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\bin\Debug\MySql.Data.xml
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.AdminForm.resources
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.AjoutAbscenForm.resources
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.CourseForm.resources
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.LoginForm.resources
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.MainForm.resources
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageCourseForm.resources
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageModuleForm.resources
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageProfesseurForm.resources
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageScoreForm.resources
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageSpecialiteForm.resources
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageStudentForm.resources
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ModuleForm.resources
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintCourseForm.resources
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintScoreForm.resources
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintStudent.resources
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.Properties.Resources.resources
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.RegisterForm.resources
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.RegisterProf.resources
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ScoreForm.resources
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.SpecialiteForm.resources
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.SplashForm.resources
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.CopyComplete
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\obj\Debug\Transparent Form.exe
+C:\Users\HP\Desktop\y\servicesENSAK\Transparent Form\obj\Debug\Transparent Form.pdb
+D:\downloadFolder\dotnet\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+D:\downloadFolder\dotnet\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.SuggestedBindingRedirects.cache
+D:\downloadFolder\dotnet\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.AdminForm.resources
+D:\downloadFolder\dotnet\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.AjoutAbscenForm.resources
+D:\downloadFolder\dotnet\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.CourseForm.resources
+D:\downloadFolder\dotnet\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.FormProf.resources
+D:\downloadFolder\dotnet\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.LoginForm.resources
+D:\downloadFolder\dotnet\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.MainForm.resources
+D:\downloadFolder\dotnet\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageCourseForm.resources
+D:\downloadFolder\dotnet\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageModuleForm.resources
+D:\downloadFolder\dotnet\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageProfesseurForm.resources
+D:\downloadFolder\dotnet\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageScoreForm.resources
+D:\downloadFolder\dotnet\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageSpecialiteForm.resources
+D:\downloadFolder\dotnet\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageStudentForm.resources
+D:\downloadFolder\dotnet\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ModuleForm.resources
+D:\downloadFolder\dotnet\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintCourseForm.resources
+D:\downloadFolder\dotnet\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintScoreForm.resources
+D:\downloadFolder\dotnet\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintStudent.resources
+D:\downloadFolder\dotnet\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.profAbsForm.resources
+D:\downloadFolder\dotnet\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.Properties.Resources.resources
+D:\downloadFolder\dotnet\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.RegisterForm.resources
+D:\downloadFolder\dotnet\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.RegisterProf.resources
+D:\downloadFolder\dotnet\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ScoreForm.resources
+D:\downloadFolder\dotnet\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.SpecialiteForm.resources
+D:\downloadFolder\dotnet\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.SplashForm.resources
+D:\downloadFolder\dotnet\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.GenerateResource.cache
+D:\downloadFolder\dotnet\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+D:\downloadFolder\dotnet\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent Form.exe
+D:\downloadFolder\dotnet\servicesENSAK\servicesENSAK\Transparent Form\obj\Debug\Transparent Form.pdb
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.AdminForm.resources
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.AjoutAbscenForm.resources
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.Consulter_Abscence.resources
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.Consulter_Note.resources
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.CourseForm.resources
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.Espace_Etudiant.resources
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.FormProf.resources
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.LoginForm.resources
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.MainForm.resources
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageCourseForm.resources
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageModuleForm.resources
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageProfesseurForm.resources
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageScoreForm.resources
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageSpecialiteForm.resources
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageStudentForm.resources
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ModuleForm.resources
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintCourseForm.resources
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintScoreForm.resources
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintStudent.resources
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.profAbsForm.resources
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.Properties.Resources.resources
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.RegisterForm.resources
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.RegisterProf.resources
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ScoreForm.resources
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.SpecialiteForm.resources
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.SplashForm.resources
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent Form.exe
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent Form.pdb
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.exe.config
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.exe
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.pdb
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\bin\Debug\Guna.UI2.dll
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\bin\Debug\Zstandard.Net.dll
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\bin\Debug\Renci.SshNet.dll
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\bin\Debug\System.Buffers.dll
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\bin\Debug\System.Memory.dll
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\bin\Debug\MySql.Data.xml
+C:\Users\HP\Downloads\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.CopyComplete
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.exe.config
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.exe
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.pdb
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\bin\Debug\Guna.UI2.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\bin\Debug\Google.Protobuf.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\bin\Debug\Zstandard.Net.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\bin\Debug\Renci.SshNet.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\bin\Debug\System.Buffers.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\bin\Debug\System.Memory.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\bin\Debug\MySql.Data.xml
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.AdminForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.AjoutAbscenForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.Consulter_Abscence.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.Consulter_Note.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.CourseForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.Espace_Etudiant.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.FormProf.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.LoginForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.MainForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageCourseForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageModuleForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageProfesseurForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageScoreForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageSpecialiteForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageStudentForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ModuleForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintCourseForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintScoreForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintStudent.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.profAbsForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.Properties.Resources.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.RegisterForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.RegisterProf.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ScoreForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.SpecialiteForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.SplashForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.GenerateResource.cache
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.CopyComplete
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent Form.exe
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\v12\servicesENSAK (9)\servicesENSAK (8)\servicesENSAK\Transparent Form\obj\Debug\Transparent Form.pdb
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.exe.config
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.exe
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\bin\Debug\Transparent Form.pdb
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\bin\Debug\Guna.UI2.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\bin\Debug\Google.Protobuf.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\bin\Debug\Zstandard.Net.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\bin\Debug\Renci.SshNet.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\bin\Debug\System.Buffers.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\bin\Debug\System.Memory.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\bin\Debug\MySql.Data.xml
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.AdminForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.AjoutAbscenForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.Consulter_Abscence.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.Consulter_Note.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.CourseForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.Espace_Etudiant.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.FormProf.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.LoginForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.MainForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageCourseForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageModuleForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageProfesseurForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageScoreForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageSpecialiteForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ManageStudentForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ModuleForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintCourseForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintScoreForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.PrintStudent.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.profAbsForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.Properties.Resources.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.RegisterForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.RegisterProf.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.ScoreForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.SpecialiteForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\obj\Debug\Transparent_Form.SplashForm.resources
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.GenerateResource.cache
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\obj\Debug\Student Management System.csproj.CopyComplete
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\obj\Debug\Transparent Form.exe
+C:\Users\KAWTAR\Desktop\studies\CI 2\S8\DotNet\Projet\stable version\servicesENSAK\Transparent Form\obj\Debug\Transparent Form.pdb
